@@ -1,0 +1,15 @@
+{
+  "name": "css-grid-cheat-sheet",
+  "version": "1.0.0",
+  "description": "Created by `<a target=\"_blank\" href=\"https://twitter.com/alialaa\">`@alialaa`</a>`.`<br>`\r Properties info text from `<a target=\"_blank\" href=\"https://css-tricks.com/snippets/css/complete-guide-grid/\">`css-tricks.com`</a>`\r \"# css-grid-cheat-sheet\"",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TexasMadeKing/css-grid-cheat-sheet/issues"
+  },
+  "homepage": "https://github.com/TexasMadeKing/css-grid-cheat-sheet#readme"
+}
